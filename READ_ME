@@ -1,0 +1,7 @@
+Build with $ make
+main.cpp is the only input file.
+main.o and plagiarismCatcher are output files.
+Parameters:
+ * Directory containing input files.
+ * Number of words per segment.
+ * Threshhold of copied segments to report.
